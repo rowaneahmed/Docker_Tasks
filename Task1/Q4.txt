@@ -1,0 +1,2 @@
+docker run -d erseco/alpine-php-webserver
+Try going to localhost:8080, does it show you anything? : NO
